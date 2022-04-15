@@ -28,14 +28,14 @@ export 'src/auth/flows/oauth_flow.dart' show OAuthController, OAuthFlow;
 export 'src/auth/oauth/social_icons.dart' show SocialIcons;
 export 'src/auth/oauth/provider_resolvers.dart' show providerIcon;
 export 'src/auth/oauth/oauth_providers.dart' show OAuthHelpers;
-export 'src/auth/oauth/providers/apple_provider.dart'
-    show AppleProviderConfiguration;
-export 'src/auth/oauth/providers/google_provider.dart'
-    show GoogleProviderConfiguration;
-export 'src/auth/oauth/providers/twitter_provider.dart'
-    show TwitterProviderConfiguration;
-export 'src/auth/oauth/providers/facebook_provider.dart'
-    show FacebookProviderConfiguration;
+// export 'src/auth/oauth/providers/apple_provider.dart'
+//     show AppleProviderConfiguration;
+// export 'src/auth/oauth/providers/google_provider.dart'
+//     show GoogleProviderConfiguration;
+// export 'src/auth/oauth/providers/twitter_provider.dart'
+//     show TwitterProviderConfiguration;
+// export 'src/auth/oauth/providers/facebook_provider.dart'
+//     show FacebookProviderConfiguration;
 
 export 'src/auth/widgets/auth_flow_builder.dart';
 export 'src/auth/widgets/email_form.dart' show EmailForm, ForgotPasswordAction;
